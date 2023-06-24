@@ -1,0 +1,12 @@
+ubilapaz\edu\bo\clasetaller\dto\MovimientoDto.class
+ubilapaz\edu\bo\clasetaller\persistence\MovimientoRepository.class
+ubilapaz\edu\bo\clasetaller\dto\Libro.class
+ubilapaz\edu\bo\clasetaller\web\TestController.class
+ubilapaz\edu\bo\clasetaller\web\UserController.class
+ubilapaz\edu\bo\clasetaller\domain\User.class
+ubilapaz\edu\bo\clasetaller\dto\UsuarioDto.class
+ubilapaz\edu\bo\clasetaller\web\MovimientoController.class
+ubilapaz\edu\bo\clasetaller\domain\Movimiento.class
+ubilapaz\edu\bo\clasetaller\ClaseTallerApplication.class
+ubilapaz\edu\bo\clasetaller\dto\UserDto.class
+ubilapaz\edu\bo\clasetaller\persistence\UserRepository.class
